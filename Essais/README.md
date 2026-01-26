@@ -1,2 +1,3 @@
-# Resultats des essais de scrapping 
-Chouette chouette chouette.
+Résulats du scrapping pour : 
+- X (Twitter)
+- Youtube
