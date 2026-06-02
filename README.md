@@ -1,2 +1,3 @@
 # Memoire
-Memoire HN1
+
+Ce dépôt a été créé pour héberger les scripts et datasets utilisés dans le cadre de mon mémoire de première de master "Humanités Numériques". 
